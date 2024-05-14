@@ -43,5 +43,8 @@
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.pytestEnabled": true,
-    "dotnet.defaultSolution": "disable"
+    "dotnet.defaultSolution": "disable",
+    "githubPullRequests.ignoredPullRequestBranches": [
+        "master"
+    ]
 }
